@@ -1,0 +1,41 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 12px;
+}
+
+.title{
+    text-align: center;
+}
+
+#pancakes-title,
+#quinoa-title,
+#sandwich-title {
+    background-color: black;
+    font-size: 20px;
+    color: white;
+}
+
+.intro{
+    background-color: rgb(121, 196, 247);
+}
+
+.intro-title{
+    font-size: 16px;
+}
+
+.ingredients{
+    background-color: rgb(253, 162, 241);
+}
+
+.ingredient-title{
+    font-size: 16px;
+}
+
+.steps{
+    background-color: rgb(247, 121, 121);
+}
+
+.steps-title{
+    font-size: 16px;
+}
